@@ -18,6 +18,6 @@ win by wickets --> The winning team has won by how many wickets.
 player of match --> This column is based on the winner column and the player of the match will be selected from the winner team and this column will represent this information only.
 venue --> It represent the location or name of the stadium in which the match was played.
 umpire1,umpire2,umpire3 --> This columns represent the infromation about the umpire that are in the match weather umpire1 represent the straight umpire and umpire2 represent the leg umpire and the umpire3 is the third umpire and this umpire make most of the difficult decision durning the matchs.
-For any assistance regarding the dataset mail me at 'mks.mukesh1996@gmail.com'
+For any assistance regarding the dataset mail me at 'deeksoni11@gmail.com'
 
 This notebook can be accessed by any one
